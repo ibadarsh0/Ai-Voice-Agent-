@@ -1,0 +1,12 @@
+{
+    "drinkType": "coffee",
+    "size": "small",
+    "milk": "coconut",
+    "extras": [
+        "caramel",
+        "sugar"
+    ],
+    "name": "Adii",
+    "timestamp": "2025-11-23T14:28:40.128908",
+    "session_id": "session_20251123_142840"
+}
